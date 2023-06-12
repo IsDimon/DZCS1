@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\С#\dz\zada4a4\obj\Debug\net6.0\zada4a4.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\С#\dz\zada4a4\obj\Debug\net6.0\zada4a4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\С#\dz\zada4a4\obj\Debug\net6.0\zada4a4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\С#\dz\zada4a4\obj\Debug\net6.0\zada4a4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\С#\dz\zada4a4\obj\Debug\net6.0\zada4a4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\С#\dz\zada4a4\bin\Debug\net6.0\zada4a4.exe
+C:\Users\Admin\Desktop\С#\dz\zada4a4\bin\Debug\net6.0\zada4a4.deps.json
+C:\Users\Admin\Desktop\С#\dz\zada4a4\bin\Debug\net6.0\zada4a4.runtimeconfig.json
+C:\Users\Admin\Desktop\С#\dz\zada4a4\bin\Debug\net6.0\zada4a4.dll
+C:\Users\Admin\Desktop\С#\dz\zada4a4\bin\Debug\net6.0\zada4a4.pdb
+C:\Users\Admin\Desktop\С#\dz\zada4a4\obj\Debug\net6.0\zada4a4.dll
+C:\Users\Admin\Desktop\С#\dz\zada4a4\obj\Debug\net6.0\refint\zada4a4.dll
+C:\Users\Admin\Desktop\С#\dz\zada4a4\obj\Debug\net6.0\zada4a4.pdb
+C:\Users\Admin\Desktop\С#\dz\zada4a4\obj\Debug\net6.0\zada4a4.genruntimeconfig.cache
+C:\Users\Admin\Desktop\С#\dz\zada4a4\obj\Debug\net6.0\ref\zada4a4.dll
