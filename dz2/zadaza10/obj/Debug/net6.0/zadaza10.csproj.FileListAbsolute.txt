@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\bin\Debug\net6.0\zadaza10.exe
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\bin\Debug\net6.0\zadaza10.deps.json
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\bin\Debug\net6.0\zadaza10.runtimeconfig.json
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\bin\Debug\net6.0\zadaza10.dll
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\bin\Debug\net6.0\zadaza10.pdb
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\obj\Debug\net6.0\zadaza10.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\obj\Debug\net6.0\zadaza10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\obj\Debug\net6.0\zadaza10.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\obj\Debug\net6.0\zadaza10.AssemblyInfo.cs
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\obj\Debug\net6.0\zadaza10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\obj\Debug\net6.0\zadaza10.dll
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\obj\Debug\net6.0\refint\zadaza10.dll
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\obj\Debug\net6.0\zadaza10.pdb
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\obj\Debug\net6.0\zadaza10.genruntimeconfig.cache
+C:\Users\Admin\Desktop\С#\dz2\zadaza10\obj\Debug\net6.0\ref\zadaza10.dll
