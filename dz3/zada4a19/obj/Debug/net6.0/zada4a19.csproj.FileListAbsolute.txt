@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\bin\Debug\net6.0\zada4a19.exe
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\bin\Debug\net6.0\zada4a19.deps.json
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\bin\Debug\net6.0\zada4a19.runtimeconfig.json
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\bin\Debug\net6.0\zada4a19.dll
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\bin\Debug\net6.0\zada4a19.pdb
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\obj\Debug\net6.0\zada4a19.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\obj\Debug\net6.0\zada4a19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\obj\Debug\net6.0\zada4a19.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\obj\Debug\net6.0\zada4a19.AssemblyInfo.cs
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\obj\Debug\net6.0\zada4a19.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\obj\Debug\net6.0\zada4a19.dll
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\obj\Debug\net6.0\refint\zada4a19.dll
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\obj\Debug\net6.0\zada4a19.pdb
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\obj\Debug\net6.0\zada4a19.genruntimeconfig.cache
+C:\Users\Admin\Desktop\С#\dz3\zada4a19\obj\Debug\net6.0\ref\zada4a19.dll

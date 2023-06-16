@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\obj\Debug\net6.0\zada4a23.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\obj\Debug\net6.0\zada4a23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\obj\Debug\net6.0\zada4a23.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\obj\Debug\net6.0\zada4a23.AssemblyInfo.cs
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\obj\Debug\net6.0\zada4a23.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\bin\Debug\net6.0\zada4a23.exe
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\bin\Debug\net6.0\zada4a23.deps.json
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\bin\Debug\net6.0\zada4a23.runtimeconfig.json
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\bin\Debug\net6.0\zada4a23.dll
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\bin\Debug\net6.0\zada4a23.pdb
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\obj\Debug\net6.0\zada4a23.dll
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\obj\Debug\net6.0\refint\zada4a23.dll
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\obj\Debug\net6.0\zada4a23.pdb
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\obj\Debug\net6.0\zada4a23.genruntimeconfig.cache
+C:\Users\Admin\Desktop\С#\dz3\zada4a23\obj\Debug\net6.0\ref\zada4a23.dll
